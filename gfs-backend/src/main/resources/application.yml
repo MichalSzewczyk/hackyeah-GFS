@@ -1,0 +1,69 @@
+# example URL:
+# https://api.barcodelookup.com/v2/products?barcode=5901588016030&formatted=y&key=rscqc9nfchqqam6csdy0tcvy1akem6
+#{
+#    "products": [
+#        {
+#            "barcode_number": "5901588016030",
+#            "barcode_type": "EAN",
+#            "barcode_formats": "EAN 5901588016030",
+#            "mpn": "",
+#            "model": "",
+#            "asin": "B00892EPPM",
+#            "product_name": "E. Wedel Dark Chocolate (100g/3.5oz)",
+#            "title": "",
+#            "category": "Food, Beverages & Tobacco > Food Items > Candy & Chocolate",
+#            "manufacture r": "Lotte Wedel",
+#            "brand": "E.Wedel",
+#            "label": "Lotte Wedel",
+#            "author": "",
+#            "publisher": "Lotte Wedel",
+#            "artist": "",
+#            "actor": "",
+#            "director": "",
+#            "studio": "",
+#            "genre": "",
+#            "audience_rating": "",
+#            "ingredients": "",
+#            "nutrition_facts": "",
+#            "color": "",
+#            "format": "",
+#            "package_quantity": "",
+#            "size": "",
+#            "length": "",
+#            "width": "",
+#            "height": "",
+#            "weight": "31",
+#            "release_date": "",
+#            "description": "Dark Chocolate - Chocolat Noir",
+#            "features": [
+#                "cocoa solids 64 % minimum"
+#            ],
+#            "images": [
+#                "https://images.barcodelookup.com/4574/45742971-1.jpg",
+#                "https://images.barcodelookup.com/4574/45742971-2.jpg"
+#            ],
+#            "stores": [],
+#            "reviews": []
+#        }
+#    ]
+#}
+
+barcodeAPI:
+  key: afweinc2rnqtandp0t99lx1pinyj7i
+  URI: https://api.barcodelookup.com/v2/products/
+
+openFoodFacts:
+  URI: https://world.openfoodfacts.org/api/v0/product
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
+    platform: h2
+  h2:
+    console:
+      enabled: true
+      path: /console
+  jpa.hibernate.ddl-auto: update

@@ -1,0 +1,442 @@
+{
+  "code": "5906395781607",
+  "product": {
+    "photographers_tags": [
+      "openfoodfacts-contributors"
+    ],
+    "unknown_nutrients_tags": [],
+    "unknown_ingredients_n": "4",
+    "quantity_debug_tags": [],
+    "additives_debug_tags": [],
+    "selected_images": {
+      "front": {
+        "small": {
+          "pl": "https://static.openfoodfacts.org/images/products/590/639/578/1607/front_pl.3.200.jpg"
+        },
+        "display": {
+          "pl": "https://static.openfoodfacts.org/images/products/590/639/578/1607/front_pl.3.400.jpg"
+        },
+        "thumb": {
+          "pl": "https://static.openfoodfacts.org/images/products/590/639/578/1607/front_pl.3.100.jpg"
+        }
+      },
+      "ingredients": {
+        "small": {
+          "pl": "https://static.openfoodfacts.org/images/products/590/639/578/1607/ingredients_pl.4.200.jpg"
+        },
+        "thumb": {
+          "pl": "https://static.openfoodfacts.org/images/products/590/639/578/1607/ingredients_pl.4.100.jpg"
+        },
+        "display": {
+          "pl": "https://static.openfoodfacts.org/images/products/590/639/578/1607/ingredients_pl.4.400.jpg"
+        }
+      }
+    },
+    "countries_hierarchy": [
+      "en:poland"
+    ],
+    "ingredients_text_debug_tags": [],
+    "complete": 0,
+    "languages": {
+      "en:polish": 4
+    },
+    "last_modified_by": null,
+    "nucleotides_prev_tags": [],
+    "allergens_hierarchy": [],
+    "ingredients_that_may_be_from_palm_oil_tags": [],
+    "ingredients_n": 4,
+    "ingredients_tags": [
+      "en:sok-jabłkowy",
+      "en:przecier-truskawkowy",
+      "en:przeciwutleniacz",
+      "en:kwas-askorbinowy"
+    ],
+    "ingredients_debug": [
+      "Sok jabłkowy 90%",
+      ",",
+      null,
+      null,
+      null,
+      " przecier truskawkowy 10%",
+      ",",
+      null,
+      null,
+      null,
+      " przeciwutleniacz",
+      ":",
+      ":",
+      null,
+      null,
+      " kwas askorbinowy"
+    ],
+    "ingredients_analysis_tags": [
+      "en:palm-oil-content-unknown",
+      "en:vegan-status-unknown",
+      "en:vegetarian-status-unknown"
+    ],
+    "interface_version_created": "20150316.jqm2",
+    "nova_group_tags": [
+      "not-applicable"
+    ],
+    "amino_acids_tags": [],
+    "brands": "Sad Sandomierski",
+    "_keywords": [
+      "sok",
+      "jabłkowy",
+      "sad",
+      "sandomierski",
+      "tłoczony"
+    ],
+    "nutrition_grades_tags": [
+      "not-applicable"
+    ],
+    "checkers_tags": [],
+    "amino_acids_prev_tags": [],
+    "ingredients_text_pl": "Sok jabłkowy 90%, przecier truskawkowy 10%, przeciwutleniacz: kwas askorbinowy",
+    "states_hierarchy": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:categories-to-be-completed",
+      "en:brands-completed",
+      "en:packaging-to-be-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:photos-uploaded"
+    ],
+    "interface_version_modified": "20150316.jqm2",
+    "additives_original_tags": [],
+    "additives_old_n": 0,
+    "sortkey": 539675733,
+    "images": {
+      "1": {
+        "uploader": "openfoodfacts-contributors",
+        "uploaded_t": 1539675730,
+        "sizes": {
+          "full": {
+            "h": 3686,
+            "w": 2764
+          },
+          "400": {
+            "w": 300,
+            "h": 400
+          },
+          "100": {
+            "w": 75,
+            "h": 100
+          }
+        }
+      },
+      "front_pl": {
+        "y2": "-1",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "w": 300,
+            "h": 400
+          },
+          "full": {
+            "h": 3686,
+            "w": 2764
+          },
+          "200": {
+            "w": 150,
+            "h": 200
+          }
+        },
+        "normalize": null,
+        "angle": 0,
+        "y1": "-1",
+        "x2": "-1",
+        "geometry": "0x0--9--9",
+        "rev": "3",
+        "imgid": "1",
+        "white_magic": null,
+        "x1": "-1"
+      },
+      "ingredients_pl": {
+        "sizes": {
+          "full": {
+            "w": 2765,
+            "h": 3686
+          },
+          "200": {
+            "w": 150,
+            "h": 200
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "100": {
+            "h": 100,
+            "w": 75
+          }
+        },
+        "y2": "-1",
+        "rev": "4",
+        "x2": "-1",
+        "geometry": "0x0--9--9",
+        "normalize": null,
+        "angle": 0,
+        "y1": "-1",
+        "imgid": "2",
+        "x1": "-1",
+        "white_magic": null
+      },
+      "2": {
+        "uploaded_t": 1539675731,
+        "uploader": "openfoodfacts-contributors",
+        "sizes": {
+          "full": {
+            "h": 3686,
+            "w": 2765
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "100": {
+            "w": 75,
+            "h": 100
+          }
+        }
+      }
+    },
+    "ingredients": [
+      {
+        "percent": "90",
+        "text": "Sok jabłkowy",
+        "id": "en:Sok jabłkowy",
+        "rank": 1
+      },
+      {
+        "text": "przecier truskawkowy",
+        "percent": "10",
+        "id": "en:przecier truskawkowy",
+        "rank": 2
+      },
+      {
+        "rank": 3,
+        "id": "en:przeciwutleniacz",
+        "text": "przeciwutleniacz"
+      },
+      {
+        "rank": 4,
+        "id": "en:kwas askorbinowy",
+        "text": "kwas askorbinowy"
+      }
+    ],
+    "last_modified_t": 1539675733,
+    "traces_hierarchy": [],
+    "nutrition_score_debug": "no score when the product does not have a category",
+    "minerals_prev_tags": [],
+    "ingredients_from_palm_oil_n": 0,
+    "created_t": 1539675725,
+    "nova_group_debug": "no nova group if too many ingredients are unknown: 4 out of 4",
+    "additives_tags": [],
+    "product_name": "Sok tłoczony jabłkowy",
+    "ingredients_hierarchy": [
+      "en:Sok jabłkowy",
+      "en:przecier truskawkowy",
+      "en:przeciwutleniacz",
+      "en:kwas askorbinowy"
+    ],
+    "additives_old_tags": [],
+    "nutrition_data_per": "100g",
+    "codes_tags": [
+      "code-13",
+      "5906395781607",
+      "590639578160x",
+      "59063957816xx",
+      "5906395781xxx",
+      "590639578xxxx",
+      "59063957xxxxx",
+      "5906395xxxxxx",
+      "590639xxxxxxx",
+      "59063xxxxxxxx",
+      "5906xxxxxxxxx",
+      "590xxxxxxxxxx",
+      "59xxxxxxxxxxx",
+      "5xxxxxxxxxxxx"
+    ],
+    "data_sources": "App - labeleat, Apps",
+    "editors_tags": [
+      "labeleat.2E19e3YjjwG8an2jpakJNfWO8bvH",
+      "openfoodfacts-contributors"
+    ],
+    "nucleotides_tags": [],
+    "id": "5906395781607",
+    "informers_tags": [
+      "labeleat.2E19e3YjjwG8an2jpakJNfWO8bvH",
+      "openfoodfacts-contributors"
+    ],
+    "entry_dates_tags": [
+      "2018-10-16",
+      "2018-10",
+      "2018"
+    ],
+    "countries_debug_tags": [],
+    "code": "5906395781607",
+    "ingredients_text_with_allergens_pl": "Sok jabłkowy 90%, przecier truskawkowy 10%, przeciwutleniacz: kwas askorbinowy",
+    "data_sources_tags": [
+      "app-labeleat",
+      "apps"
+    ],
+    "pnns_groups_1_tags": [
+      "unknown",
+      "missing-category"
+    ],
+    "minerals_tags": [],
+    "nutrition_data_prepared_per": "100g",
+    "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+    "lc": "en",
+    "traces_tags": [],
+    "pnns_groups_1": "unknown",
+    "product_name_pl": "Sok tłoczony jabłkowy",
+    "nutrient_levels": {},
+    "creator": "labeleat",
+    "ingredients_from_palm_oil_tags": [],
+    "vitamins_tags": [],
+    "correctors_tags": [
+      "openfoodfacts-contributors"
+    ],
+    "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:categories-to-be-completed, en:brands-completed, en:packaging-to-be-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+    "_id": "5906395781607",
+    "countries": "Poland",
+    "additives_prev_original_tags": [],
+    "quality_tags": [
+      "ingredients-unknown-score-above-0",
+      "ingredients-100-percent-unknown"
+    ],
+    "product_quantity": 330,
+    "nutriments": {
+      "fat_value": 0.5,
+      "sugars_unit": "g",
+      "salt": 0,
+      "carbohydrates": 11,
+      "energy": 188,
+      "saturated-fat_value": 0.1,
+      "energy_unit": "kcal",
+      "carbohydrates_100g": 11,
+      "energy_100g": 188,
+      "saturated-fat_unit": "g",
+      "sugars": 7.2,
+      "fat_100g": 0.5,
+      "sodium": 0,
+      "sodium_100g": 0,
+      "saturated-fat_100g": 0.1,
+      "salt_100g": 0,
+      "sodium_unit": "g",
+      "carbohydrates_unit": "g",
+      "sugars_100g": 7.2,
+      "fat_unit": "g",
+      "energy_value": 45,
+      "proteins_value": 0.5,
+      "saturated-fat": 0.1,
+      "proteins_unit": "g",
+      "carbohydrates_value": 11,
+      "proteins_100g": 0.5,
+      "proteins": 0.5,
+      "sugars_value": 7.2,
+      "sodium_value": 0,
+      "fat": 0.5
+    },
+    "other_nutritional_substances_tags": [],
+    "completeness": 0.55,
+    "ingredients_that_may_be_from_palm_oil_n": 0,
+    "languages_hierarchy": [
+      "en:polish"
+    ],
+    "additives_n": 0,
+    "no_nutrition_data": "",
+    "last_editor": null,
+    "allergens_tags": [],
+    "rev": 5,
+    "allergens_from_ingredients": "",
+    "pnns_groups_2": "unknown",
+    "ingredients_ids_debug": [
+      "sok-jabłkowy-90",
+      "przecier-truskawkowy-10",
+      "przeciwutleniacz",
+      "kwas-askorbinowy"
+    ],
+    "states_tags": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:categories-to-be-completed",
+      "en:brands-completed",
+      "en:packaging-to-be-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:photos-uploaded"
+    ],
+    "max_imgid": "2",
+    "brands_debug_tags": [],
+    "update_key": "key_1566926450",
+    "countries_lc": "en",
+    "ingredients_n_tags": [
+      "4",
+      "1-10"
+    ],
+    "lang": "en",
+    "languages_codes": {
+      "pl": 4
+    },
+    "nutrient_levels_tags": [],
+    "last_edit_dates_tags": [
+      "2018-10-16",
+      "2018-10",
+      "2018"
+    ],
+    "ingredients_text_debug": "Sok jabłkowy 90%, przecier truskawkowy 10%, przeciwutleniacz: kwas askorbinowy",
+    "last_image_dates_tags": [
+      "2018-10-16",
+      "2018-10",
+      "2018"
+    ],
+    "ingredients_original_tags": [
+      "en:Sok jabłkowy",
+      "en:przecier truskawkowy",
+      "en:przeciwutleniacz",
+      "en:kwas askorbinowy"
+    ],
+    "brands_tags": [
+      "sad-sandomierski"
+    ],
+    "vitamins_prev_tags": [],
+    "last_image_t": 1539675732,
+    "traces_from_ingredients": "",
+    "quantity": "330ml",
+    "languages_tags": [
+      "en:polish",
+      "en:1"
+    ],
+    "pnns_groups_2_tags": [
+      "unknown",
+      "missing-category"
+    ],
+    "misc_tags": [
+      "en:nutriscore-not-computed"
+    ],
+    "ingredients_text": "Sok jabłkowy 90%, przecier truskawkowy 10%, przeciwutleniacz: kwas askorbinowy",
+    "countries_tags": [
+      "en:poland"
+    ],
+    "product_name_debug_tags": []
+  },
+  "status_verbose": "product found",
+  "status": 1
+}

@@ -1,0 +1,36 @@
+package com.gfs.backend.model;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.ToString;
+
+@AllArgsConstructor
+@Getter
+@ToString
+public enum Country {
+    US(44.0, -120.5),
+    FRANCE(48.864716, 2.349014),
+    BULGARIA(42.698334, 23.319941),
+    SLOVENIA(46.056946, 14.505751),
+    CROATIA(45.815399, 15.966568),
+    GERMANY(52.520008, 13.404954),
+    JAPAN(35.652832, 139.839478),
+    RUSSIA(55.751244, 37.618423),
+    POLAND(52.237049, 21.017532),
+    ROMANIA(44.439663, 26.096306),
+    HUNGARY(47.497913, 19.040236),
+    TUNISIA(36.862499, 10.195556),
+    CHINA(39.913818, 116.363625),
+    FINLAND(60.192059, 24.945831),
+    NORWAY(59.911491, 10.757933),
+    ITALY(43.769562, 11.255814),
+    SPAIN(40.416775, -3.703790),
+    SLOVAKIA(48.148598, 17.107748),
+    CZECH(49.883575, 12.872071),
+    THAILAND(13.736717, 100.523186),
+    INDIA(28.644800, 77.216721),
+    AUSTRIA(48.210033, 16.363449),
+    AUSTRALIA(-35.473469, 149.012375);
+    private final double latitude;
+    private final double longitude;
+}
