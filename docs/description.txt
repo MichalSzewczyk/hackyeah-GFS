@@ -1,0 +1,18 @@
+High level overview
+Green Footprint Scanner is mobile application used for assessing green footprint of products based on barcode.
+Simplified GUI provides user friendly UI which shows value from range 0 to 100 which tells how production and recycling of given product impacts environment. Additionally, colour is displayed - green for the most environment friendly, red for the less and any colour in between - depending on product score.
+Technical background
+Algorithm:
+Final result is computed based on the following data:
+- Ingredients of given product - for example verification if palm oil was used during production (it is well known, that production of palm oil has extremely negative impact on environment). https://world.openfoodfacts.org/api/v0/product
+- Distance and weight of given product - based on current location of user, there is distance computed which product needed to pass from manufacturer to shop. Distance impact on final result depends on weight of given product.
+https://api.barcodelookup.com/v2/products/
+- Below algorithm inputs are just the beginning. Data mining and AI algorithms can be used in the future to increase accuracy of assessment.
+Mobile application:
+Mobile application has barcode scanner implemented based on image processing algorithms. Once barcode is scanned, it is passed to backend for product score computation. Once response is received, it is shown to user.
+Architecture:
+The final application architecture consists of:
+1. Mobile application written in Android
+2. HA proxy is used as load balancer between mobile clients and backend instances
+3. Backed used for barcode lookup and product assessment
+4. Redis distributed cache used for caching barcode data and computation results, to limit API calls to external data sources as well as resources used for product assessment
